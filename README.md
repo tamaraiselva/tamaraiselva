@@ -1,6 +1,6 @@
 # Hi there, I'm TAMARAI SELVAN 👋
 
-Aspiring Software Developer | Passionate about AI/ML and building impactful software solutions!
+Aspiring Software Developer
 
 📫 **Get in touch:**  
 - **Email:** tamaraiselvan98@gmail.com  
