@@ -7,6 +7,7 @@ Aspiring Software Developer | Passionate about AI/ML and building impactful soft
 - **Phone:** +91 9688814221  
 - **Location:** Coimbatore, India  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamarai-selvan-ravi-6b5311213/)
+- [![Resume](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://drive.google.com/file/d/1M4z4y3NeJkrYWSuvxwfZI8YW_YqUQiLd/view?usp=drive_link_)
 
 ---
 
