@@ -3,7 +3,7 @@
 Aspiring Software Developer | Passionate about AI/ML and building impactful software solutions!
 
 📫 **Get in touch:**  
-- **Email:** find.tamaraiselvan98@gmail.com  
+- **Email:** tamaraiselvan98@gmail.com  
 - **Phone:** +91 9688814221  
 - **Location:** Coimbatore, India  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamarai-selvan-ravi-6b5311213/)
