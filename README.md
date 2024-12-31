@@ -23,3 +23,8 @@ Aspiring Software Developer
 
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tamaraiselva&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### Profile views counter 👁️‍🗨️
+[![TANARAI profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/tamaraiselva)
