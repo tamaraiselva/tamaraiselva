@@ -28,3 +28,9 @@ Aspiring Software Developer
 
 ### Profile views counter 👁️‍🗨️
 [![TANARAI profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/tamaraiselva)
+
+---
+
+## 📊 My Projects
+
+  1. ![TEXT-SUMMARIZER-USING-NLP](https://github.com/tamaraiselva/TEXT-SUMMARIZER-USING-NLP)
