@@ -33,4 +33,4 @@ Aspiring Software Developer
 
 ## 📊 My Projects
 
-[TEXT-SUMMARIZER-USING-NLP](https://github.com/tamaraiselva/TEXT-SUMMARIZER-USING-NLP)
+1. [TEXT-SUMMARIZER-USING-NLP](https://github.com/tamaraiselva/TEXT-SUMMARIZER-USING-NLP)
