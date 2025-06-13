@@ -32,6 +32,17 @@ Aspiring Software Developer
 
 ---
 
+## 📊 Learn
+
+1. [LIASCRIPT](https://github.com/tamaraiselva/liascript)
+2. [LLM-Applications](https://github.com/tamaraiselva/LLM-Applications)
+3. [AI-ML](https://github.com/tamaraiselva/AI-ML)
+4. [GITHUB](https://github.com/tamaraiselva/git_commands)
+5. [Git](https://github.com/tamaraiselva/git/blob/main/git.md)
+6. [Interview_Material](https://github.com/tamaraiselva/Interview_Material)
+
+---
+
 ## 📊 GitHub Stats
 
 ![TAMARAI SELVAN GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaraiselva&show_icons=true&theme=transparent)
